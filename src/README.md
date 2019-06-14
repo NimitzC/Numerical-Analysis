@@ -13,6 +13,7 @@
 实验二
 
 + `Auto-TQF.c` 自动选取步长的梯形求积法
++ `Auto-Simpson` 自动选取步长的 Simpson 求积法
 + `Simpson.c` Simpson 求积法
 + `Romberg.c` Romberg 求积法
 
